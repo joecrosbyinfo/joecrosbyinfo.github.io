@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
 body {
 	font-size: 18px;
-	font-family: palatino linotype;  
+	font-family: Economica	;  
 	color: #000000;
 	background: url("images/words.jpg");
 
@@ -9,6 +10,7 @@ h1 {
 	text-align: center;
 	font-size: 36px; 
 	text-transform: uppercase;
+	font-family: 'Lobster', cursive;
 	margin-bottom: 1px;
 }
 h2 {
