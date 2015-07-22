@@ -1,10 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Lobster);
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
 	font-size: 18px;
-	font-family: Economica	;  
+	font-family: 'Economica', sans-serif; 
 	color: #000000;
 	background: url("images/words.jpg");
-
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 h1 {
 	text-align: center;
@@ -19,10 +20,9 @@ h2 {
 	margin-top: 1px;
 	color:#ffffff;
 }
-
-#slogan { 
-	font-style: italic;
-}
 a {
 	color:#ffffff;
+}
+#slogan { 
+	font-style: italic;
 }
