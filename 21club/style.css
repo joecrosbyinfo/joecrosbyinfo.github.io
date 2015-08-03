@@ -1,0 +1,33 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+header {
+	background: url("images/header.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: fixed;
+	font-size: 200px;
+}
+#about {
+	background-color: #00c82d;
+}
+
+body {
+	font-size: 18px;
+	color: #000000;
+}
+button {
+	font-size: 22px;
+	margin-top: 200px;
+	margin-right: 250px;
+}
+h1 {
+	text-align: center;
+	font-size: 36px; 
+	text-transform: uppercase;
+	margin-bottom: 1px;
+}
+h3 {
+	text-align: center; 
+	font-size: 24px;
+	margin-top: 1px;
+	color:#ffffff;
+}
